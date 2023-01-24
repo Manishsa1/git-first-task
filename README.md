@@ -1,1 +1,2 @@
-# git-first-task
+#git-first-task
+my first repository. 
